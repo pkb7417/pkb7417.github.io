@@ -76,10 +76,10 @@ title = "pkbFlow"
 #   ]
 
 #[author]
-#  name = "pkbflow"
-#  image = "img/author.jpg"  # 이게 프로필 이미지!
-#  headline = "백엔드 개발자"
-#  bio = "Go와 백엔드 개발을 공부하고 있습니다."
-#  links = [
-#    { github = "https://github.com/pkbflow" },
-#  ]
+ # name = "pkbflow"
+  #image = "img/author.png"  # 이게 프로필 이미지!
+  #headline = "Backend Developer"
+  #bio = "Go와 백엔드 개발을 공부하고 있습니다."
+  #links = [
+  #  { github = "https://github.com/pkbflow" },
+  #]
